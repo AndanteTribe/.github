@@ -62,6 +62,7 @@ AndanteTribe はゲーム制作を行うクリエイティブグループです�
 | -------------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | [Backport](https://github.com/AndanteTribe/Backport)     | Unity などの旧ランタイム向けに .NET の新しい API をバックポートしています． | [![NuGet](https://img.shields.io/nuget/v/AndanteTribe.Backport?label=NuGet&logo=nuget)](https://www.nuget.org/packages/AndanteTribe.Backport/)     |
 | [Extensions](https://github.com/AndanteTribe/Extensions) | 実用的な C# の拡張メソッド集です．                            | [![NuGet](https://img.shields.io/nuget/v/AndanteTribe.Extensions?label=NuGet&logo=nuget)](https://www.nuget.org/packages/AndanteTribe.Extensions/) |
+| [SerializableFormat](https://github.com/AndanteTribe/SerializableFormat) | .NET Standard 2.1 対応のシリアライズ可能な CompositeFormat ライブラリです． | [![NuGet](https://img.shields.io/nuget/v/AndanteTribe.SerializableFormat?label=NuGet&logo=nuget)](https://www.nuget.org/packages/AndanteTribe.SerializableFormat/) |
 
 #### Components
 
