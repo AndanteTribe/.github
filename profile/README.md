@@ -43,6 +43,7 @@ AndanteTribe はゲーム制作を行うクリエイティブグループです�
 | ------------------------------------------------------------ | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [DebugToolkit](https://github.com/AndanteTribe/DebugToolkit) | ランタイムのデバッグメニューを作りやすくするライブラリです．      | [![OpenUPM](https://img.shields.io/npm/v/jp.andantetribe.debugtoolkit?label=openupm\&registry_uri=https://package.openupm.com)](https://openupm.com/packages/jp.andantetribe.debugtoolkit/) |
 | [Inspector](https://github.com/AndanteTribe/Inspector)       | Unity の標準インスペクターを拡張するカスタムインスペクターです． | [![OpenUPM](https://img.shields.io/npm/v/jp.andantetribe.inspector?label=openupm\&registry_uri=https://package.openupm.com)](https://openupm.com/packages/jp.andantetribe.inspector/)       |
+| [UnityNamespaceSuppressor](https://github.com/AndanteTribe/UnityNamespaceSuppressor) | MonoBehaviour / ScriptableObject / ScriptedImporter の block-scoped namespace を維持する Roslyn DiagnosticSuppressor です． | [![NuGet](https://img.shields.io/nuget/v/AndanteTribe.UnityNamespaceSuppressor?label=NuGet&logo=nuget)](https://www.nuget.org/packages/AndanteTribe.UnityNamespaceSuppressor/) |
 | [Unity YAML Merge](https://github.com/AndanteTribe/unity-yaml-merge) | UnityのYAMLファイルを解決・マージするためにYamlMergeを自動実行します。 | [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Marketplace-2088FF?logo=githubactions)](https://github.com/marketplace/actions/unity-yaml-merge)[![Docker Hub](https://img.shields.io/docker/v/andantetribe/unity-yaml-merge?label=Docker%20Hub&logo=docker&sort=semver)](https://hub.docker.com/r/andantetribe/unity-yaml-merge)[![Docker Hub](https://img.shields.io/docker/v/andantetribe/unity-yaml-merge-git?label=Docker%20Hub&logo=docker&sort=semver)](https://hub.docker.com/r/andantetribe/unity-yaml-merge-git) |
 
 #### Modules
@@ -68,6 +69,12 @@ AndanteTribe はゲーム制作を行うクリエイティブグループです�
 | リポジトリ                                                  | 説明                                   | パッケージ                                                                                                                         |
 | ------------------------------------------------------ | ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
 | [XieSender](https://github.com/AndanteTribe/XieSender) | XInputEdge から抽出した、軽量・最適化済みの送信専用実装です． | [![NuGet](https://img.shields.io/nuget/v/AndanteTribe.XieSender?label=NuGet&logo=nuget)](https://www.nuget.org/packages/AndanteTribe.XieSender/) |
+
+#### Tools
+
+| リポジトリ                                                        | 説明                               | パッケージ                                                                                                                             |
+| ------------------------------------------------------------ | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| [EntityAccessAnalyzer](https://github.com/AndanteTribe/EntityAccessAnalyzer) | エンティティの状態変更をサービスに限定する Roslyn Analyzer です． | [![NuGet](https://img.shields.io/nuget/v/AndanteTribe.EntityAccessAnalyzer?label=NuGet&logo=nuget)](https://www.nuget.org/packages/AndanteTribe.EntityAccessAnalyzer/) |
 
 ---
 
